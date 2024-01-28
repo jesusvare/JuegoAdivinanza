@@ -2,7 +2,7 @@
 
 ¡Bienvenido al emocionante Juego de Adivinanza de Números en C# con Windows Forms!
 
-![Juego de Adivinanza](/ruta/imagen.png)
+
 
 ## Descripción del Proyecto
 
